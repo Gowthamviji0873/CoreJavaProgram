@@ -21,5 +21,5 @@ public class MultilevelInheritanceDemo {
 		System.out.println(l1);
 
 	}
-
+	
 }
